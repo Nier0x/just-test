@@ -23,6 +23,7 @@ namespace DemoSplitFiles
             Console.WriteLine("foreignPassport: {0}", ForeignPassport);
             Console.WriteLine("visaOpen: {0}", VisaOpen);
             Console.WriteLine("visaClose: {0}", VisaClose);
+            Console.WriteLine("Хорошего Вам дня!");
         }
     }
 }
